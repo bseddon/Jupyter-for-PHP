@@ -1,0 +1,11 @@
+.idea/
+.travis/phar_private.key
+.travis/deploy_private.key
+.travis/secrets.tar
+vendor/
+bin/box.phar
+composer.lock
+jupyter-php-installer.phar
+jupyter-php-installer.phar.pubkey
+.vscode/
+*.phar
